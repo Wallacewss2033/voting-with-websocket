@@ -1,1 +1,2 @@
 confs/mysql_db/*
+!confs/mysql_db/
