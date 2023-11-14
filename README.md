@@ -71,7 +71,32 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
   ```
   php artisan queue:work
   ```
+### Para adicionar mais confrontos 
+1 - Adcione essa estrutura no arquivo teams.json
+    
+    "0": {
+            "id": 0,
+            "date": "",
+            "teamsHome": {
+                "id": 1,
+                "escudo": "2018/04/10/Flamengo-2018.svg",
+                "name": "Flamengo",
+                "wishes": 0
+            },
+            "teamsOutside": {
+                "id": 2,
+                "escudo": "2021/09/19/Fortaleza_2021_1.svg",
+                "name": "Fortaleza",
+                "wishes": 0
+            }
+        },
 
+  OBS: 
+  
+  - Não repitir os ``` id's ``` nem o index do objeto.
+
+  - Para mudar o escudo dos times, olhe as opções disponiveis no arquivo ```escudos.txt``` e substitua no teams.json
+    
 # IMAGENS - projeto rodando!
 
 ### Responsivo para desktop
