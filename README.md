@@ -1,4 +1,7 @@
-# voting-with-websocket - Com Modo Dark e Light.
+# voting-with-websocket - Votação em Realtime.
+
+- Modo Dark e Light.
+
 
 Projeto voting-with-websocket - (SPA E API) 
 - Nginx
@@ -61,3 +64,16 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 ```
 
 # Em construção...
+
+# IMAGENS
+  ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/353b88d7-e113-4f00-b1c3-02edae816348) ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/39938022-bd6c-4718-9984-3a0856822619)
+
+  ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/fe2e1905-c0a6-424d-a79f-e50c7d84194f)
+  ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/5de02885-56f9-4427-8f22-448dfc4ba39d)
+
+
+
+
+
+
+
