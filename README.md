@@ -33,12 +33,14 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
   
       $ mkdir voting-websocket-api
 
-
 3 - Entre na pasta do frontend e corra o comando abaixo para clonar o repositório do frontend. 
-
 
 ```
  git clone git@github.com:Wallacewss2033/voting_websocket_app.git
+```
+
+```
+ npm install
 ```
 
 
@@ -46,6 +48,16 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 
 ```
   git clone git@github.com:Wallacewss2033/voting_websocket_api.git
+```
+
+```
+ composer install
+```
+
+5 - Agora, volte até a pasta do projeto "voting-with-websocket" e digite o comando abaixo.
+
+```
+  docker-compose up -d --build
 ```
 
 # Em construção...
