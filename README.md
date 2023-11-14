@@ -61,20 +61,21 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 # Em construção...
 
 # IMAGENS
-  - responsivo para desktop
+### Responsivo para desktop
 <div> 
    
-  dark mode  
+  - Dark Mode  
   
   ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/fe2e1905-c0a6-424d-a79f-e50c7d84194f)
 
-  light mode
+  - Light Mode
   
   ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/5de02885-56f9-4427-8f22-448dfc4ba39d)
     
 </div>
  
-  - Responsivo para mobile
+### Responsivo para mobile
+
 <div align="center"> 
   
 ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/353b88d7-e113-4f00-b1c3-02edae816348) ![image](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/39938022-bd6c-4718-9984-3a0856822619)
@@ -84,12 +85,12 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
   
 # Gifs
 
-- responsivo para desktop
+### Responsivo para desktop
 
 ![Video_1699983265](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/50b74061-5310-42ea-a5ae-77f7d722f4bf)
 
 
-- responsivo para mobile
+### Responsivo para mobile
 
 ![Video_1699978358_1_](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/ab1e1382-cec9-4000-9d94-52113d02f465)
 
