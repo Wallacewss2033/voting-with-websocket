@@ -20,7 +20,9 @@ Projeto voting-with-websocket - (SPA E API)
 
 
 
-## Para rodar com o projeto
+# Para rodar com o projeto
+
+## Instalação 
 
 1 - Clone o projeto
 ```
@@ -58,9 +60,22 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
   docker-compose up -d --build
 ```
 
-# Em construção...
+## Configurações
 
-# IMAGENS
+  1 - Entre na pasta do backend e rode o comando abaixo para entrar no terminal do container
+  
+    ```
+    docker exec -it voting-api bash
+    ```
+    
+  2 - Rode o comando abaixo para execultar as filas
+  
+  ```
+  php artisan queue:work
+  ```
+
+# IMAGENS - projeto rodando!
+
 ### Responsivo para desktop
 <div> 
    
