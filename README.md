@@ -26,17 +26,9 @@ Projeto voting-with-websocket - (SPA E API)
 git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 ```
 
-2 - Dentro do projeto crie duas partas ( uma para o frontend e outra para o backend ).
+2 - Dentro do projeto 
 
-  a) Para o frontend crie com o nome de "voting-websocket-app"
-  
-      $ mkdir voting-websocket-app
-  
-  b) Para o backend "voting-websocket-api"
-  
-      $ mkdir voting-websocket-api
-
-3 - Entre na pasta do frontend e corra o comando abaixo para clonar o repositório do frontend. 
+  a) Corra os comandos abaixo para clonar o repositório e instalar as dependencias do frontend. 
 
 ```
  git clone git@github.com:Wallacewss2033/voting_websocket_app.git
@@ -47,7 +39,7 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 ```
 
 
-4 - Entre na pasta do backend e corra o comando abaixo para clonar o repositório do back. 
+  b) Corra os comandos abaixo para clonar o repositório e instalar as dependencias do backend. 
 
 ```
   git clone git@github.com:Wallacewss2033/voting_websocket_api.git
