@@ -64,9 +64,7 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 
   1 - Entre na pasta do backend e rode o comando abaixo para entrar no terminal do container
   
-    ```
     docker exec -it voting-api bash
-    ```
     
   2 - Rode o comando abaixo para execultar as filas
   
@@ -107,8 +105,11 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 
 ### Responsivo para mobile
 
+<div align="center"> 
+  
 ![Video_1699978358_1_](https://github.com/Wallacewss2033/voting-with-websocket/assets/39920409/ab1e1382-cec9-4000-9d94-52113d02f465)
-
+    
+</div>
 
 
 
