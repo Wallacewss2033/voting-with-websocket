@@ -28,23 +28,25 @@ git clone git@github.com:Wallacewss2033/voting-with-websocket.git
 
 2 - Dentro do projeto 
 
-  a) Corra os comandos abaixo para clonar o repositório e instalar as dependencias do frontend. 
+  a) Corra o comando abaixo para clonar o repositório do frontend. 
 
 ```
  git clone git@github.com:Wallacewss2033/voting_websocket_app.git
 ```
-
+  b) Entre na pasta do frontend e rode o comando abaixo
 ```
  npm install
 ```
+  
+3 - Volte para a raiz do projeto "voting-with-websocket".
 
-
-  b) Corra os comandos abaixo para clonar o repositório e instalar as dependencias do backend. 
+  a) Corra o comando abaixo para clonar o repositório do backend.
 
 ```
   git clone git@github.com:Wallacewss2033/voting_websocket_api.git
 ```
-
+  b) Entre na pasta do backend e rode o comando abaixo
+  
 ```
  composer install
 ```
